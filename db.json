@@ -1,62 +1,18 @@
- [
+{
+  "requests": [
     {
       "id": 1,
       "organizationName": "ООО СтройГеоПроект",
-      "organizationInn": "7701123456",
-      "responsibleName": "Иванов Петр Сергеевич",
-      "responsiblePhone": "+7 (903) 123-45-67",
-      "responsibleEmail": "ivanov@stroygeo.ru",
+      "responsiblePerson": "Иванов Петр Сергеевич",
+      "responsiblePhone": "+7 (903) 111-22-33",
       "workType": "Топографическая съемка",
       "workAddress": "Московская обл., г. Химки, ул. Строителей, д. 15",
-      "workArea": 2.5,
-      "workDescription": "Съемка участка под строительство жилого дома",
       "date": "2024-12-15",
       "time": "10:00",
-      "deadline": "2024-12-20",
       "status": "pending",
-      "statusText": "Ожидает подтверждения",
-      "priority": "high",
-      "comment": "Нужен допуск на объект",
-      "createdAt": "2024-12-10T09:30:00.000Z"
-    },
-    {
-      "id": 2,
-      "organizationName": "АО ГеоСтрой",
-      "organizationInn": "7702987654",
-      "responsibleName": "Петрова Анна Викторовна",
-      "responsiblePhone": "+7 (916) 765-43-21",
-      "responsibleEmail": "petrova@geostroy.ru",
-      "workType": "Контрольная съемка",
-      "workAddress": "г. Москва, ул. Ленина, д. 50, стр. 2",
-      "workArea": null,
-      "workDescription": "Проверка геометрии фундамента",
-      "date": "2024-12-16",
-      "time": "14:30",
-      "deadline": "2024-12-16",
-      "status": "confirmed",
-      "statusText": "Подтверждена",
-      "priority": "medium",
-      "comment": "Въезд на территорию свободный",
-      "createdAt": "2024-12-09T14:20:00.000Z"
-    },
-    {
-      "id": 3,
-      "organizationName": "ИП Сидоров",
-      "organizationInn": "7723123456",
-      "responsibleName": "Сидоров Петр Иванович",
-      "responsiblePhone": "+7 (925) 555-66-77",
-      "responsibleEmail": "sidorov@mail.ru",
-      "workType": "Геодезическая разбивка осей",
-      "workAddress": "МО, г. Красногорск, ул. Центральная, д. 10",
-      "workArea": null,
-      "workDescription": "Разбивка осей коттеджа",
-      "date": "2024-12-17",
-      "time": "09:00",
-      "deadline": "2024-12-18",
-      "status": "new",
-      "statusText": "Новая заявка",
-      "priority": "low",
-      "comment": "",
-      "createdAt": "2024-12-11T11:45:00.000Z"
+      "statusName": "Ожидает подтверждения",
+      "comments": "Подъезд со стороны улицы Строителей",
+      "createdAt": "2024-12-10T09:30:00Z"
     }
   ]
+}
